@@ -20,7 +20,7 @@ feature:
   icon: wifi
   icon_pack: fas
   name: Wireless Network
-- description: C++/Python/Matlab
+- description: C++/Matlab
   icon: keyboard
   icon_pack: fas
   name: Programming
