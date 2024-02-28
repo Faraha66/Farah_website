@@ -31,7 +31,7 @@ education:
   - course: MSc., Communication Engineering
     institution: Amir Kabir University of Technology
     year: 2013
-  - course: BSc., Eletrical Engineering
+  - course: BSc., Electrical Engineering
     institution: Sadjad University of Technology
     year: 2010
 
