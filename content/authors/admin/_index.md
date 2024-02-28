@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Farah Arabian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Farah
+last_name: Arabian
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cellular Interoperability Engineer, EE PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Apple Inc.
+    url: https://www.apple.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 5G cellular networks, Digital communication theory, and signal processing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 5G mobile networks
+  - Digital communications theory
+  - Digital signal processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D., Electrical and Computer Engineering
+      institution: Brigham Young University
+      year: 2022
+    - course:  MSc., Communication Engineering
+      institution: Amir Kabir University of Technology
+      year: 2013
+    - course: BSc., Eletrical Engineering
+      institution: Sadjad University of Technology
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,21 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=b_ZkmvkAAAAj
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/farah-arabian
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,8 +108,10 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Dr. Farah Arabian is working as a Cellular Software Engineer at Apple Inc.'s headquarters since 2021. She holds a Ph.D. in Electrical and Computer Engineering from Brigham Young University (BYU). During her doctoral studies, she was a research and teaching assistant specializing in signal processing and digital communications. Additionally, Farah has four years of professional experience as a UMTS/LTE RF planning and optimization engineer, having worked with both Huawei and Nokia.
+
+Furthermore, she is an active member of the IEEE Communication Society (ComSoc) and holds memberships in engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.
+
