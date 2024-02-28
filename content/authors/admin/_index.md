@@ -69,6 +69,6 @@ email: "farah.arabian@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Dr. Farah Arabian is working as a Cellular Software Engineer at Apple Inc.'s headquarters since 2021. She holds a Ph.D. in Electrical and Computer Engineering from Brigham Young University (BYU). During her doctoral studies, she served as a research and teaching assistant specializing in signal processing and digital communications . Additionally, Farah possesses four years of professional experience as a UMTS/LTE RF planning and optimization engineer, having worked with both Huawei and Nokia Companies.
+Dr. Farah Arabian is working as a Cellular Software Engineer at Apple Inc. since 2021. She holds a Ph.D. in Electrical and Computer Engineering from Brigham Young University (BYU). During her doctoral studies, she was a research and teaching assistant specializing in signal processing and digital communications. Additionally, Farah possesses four years of professional experience as a UMTS/LTE RF planning and optimization engineer, having worked with both Huawei and Nokia Companies.
 
 Furthermore, she is an active member of the IEEE Communication Society (ComSoc) and holds memberships in engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.
