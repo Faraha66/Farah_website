@@ -69,6 +69,8 @@ email: "farah.arabian@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Farah Arabian is working as a Cellular Software Engineer at Apple Inc. since 2021. She holds a Ph.D. degree in Electrical and Computer Engineering from Brigham Young University (BYU). During her doctoral studies, she was a research and teaching assistant, specializing in signal processing and digital communications. Additionally, Farah possesses four years of professional experience as a UMTS/LTE RF planning and optimization engineer, having worked with both Huawei and Nokia Companies.
+Farah has been a Cellular Software Engineer at Apple Inc. since 2021, leveraging her expertise in Electrical and Computer Engineering, with a Ph.D. from Brigham Young University (BYU). Her dissertation, "Multipath Mitigation in Frequency Selective Channels with an Emphasis on 5G Cellular Mobile Networks and Aeronautical Mobile Telemetry Applications," underscores her specialized knowledge.
 
-Furthermore, she is an active member of the IEEE Communication Society (ComSoc) and holds memberships in engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.
+During her doctoral studies, Farah contributed as a research and teaching assistant, focusing on signal processing and digital communications. With four years of prior professional experience as a UMTS/LTE RF planning and optimization engineer at Huawei and Nokia, she demonstrated her proficiency in the field.
+
+Farah remains engaged in her professional community, actively participating in the IEEE Communication Society (ComSoc) and holding memberships in esteemed engineering honors societies like Eta Kappa Nu and Phi Kappa Phi.e IEEE Communication Society (ComSoc) and holds memberships in engineering honors societies Eta Kappa Nu, and Phi Kappa Phi.
