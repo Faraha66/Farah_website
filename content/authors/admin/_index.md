@@ -6,7 +6,7 @@ title: Farah Arabian
 superuser: true
 
 # Role/position/tagline
-role: Cellular Interoperability Engineer, EE PhD
+role: Cellular Software Engineer, EE PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
